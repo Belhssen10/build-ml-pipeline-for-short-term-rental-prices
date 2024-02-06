@@ -37,7 +37,7 @@ In this project you will build such a pipeline.
 git clone https://github.com/Belhssen10/build-ml-pipeline-for-short-term-rental-prices.git
 ```
 ### Wandb results
-The results and runs could be found in the following [link](#https://wandb.ai/ouerghieb/nyc_airbnb).
+The results and runs could be found in the following [link](https://wandb.ai/ouerghieb/nyc_airbnb).
 
 and go into the repository:
 
